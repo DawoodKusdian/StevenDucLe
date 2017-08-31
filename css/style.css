@@ -253,7 +253,7 @@ body {
 @media (min-aspect-ratio: 16/9) {
   .fullscreen-bg__video {
     height: 300%;
-    top: -112.8%;
+    top: -120%;
   }
 }
 
